@@ -1,6 +1,3 @@
 [submodule "luyentap"]
 	path = luyentap
 	url = https://github.com/Tranphat1605/hello-cpp.git
-[submodule "OOP"]
-	path = OOP
-	url = https://github.com/Tranphat1605/OOP.git
