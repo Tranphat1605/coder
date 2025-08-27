@@ -1,0 +1,14 @@
+13
+8X3J2A,But bi,Van phong,Chiec,12/5/2023,Thien Long,120,5000.00,540000.00
+9K7L6D,But chi,Van phong,Chiec,23/8/2022,Staedtler,200,7000.00,1260000.00
+5M2N1B,Tap 100 trang,Vo,Chiec,15/7/2021,Hong Ha,150,12000.00,1620000.00
+4P8Q6C,Keo dan,Dung cu,Chai,7/9/2023,Pritt,90,15000.00,1350000.00
+1R9S3D,Compa,Dung cu,Bo,28/2/2024,Deli,50,25000.00,1250000.00
+7T5U2E,Thuoc ke 20cm,Dung cu,Chiec,10/11/2022,Flexoffice,180,8000.00,1296000.00
+6V4W1F,But long,Van phong,Chiec,5/6/2021,Pilot,75,18000.00,1350000.00
+3X9Y7G,Giay note,Van phong,Bo,18/3/2023,Double A,140,22000.00,2772000.00
+2Z6A8H,Hop but,Dung cu,Hop,2/10/2023,Flexoffice,130,35000.00,4095000.00
+5B7C9J,Bang viet,Dung cu,Chiec,12/12/2020,Uniball,60,45000.00,2700000.00
+4D3E1K,Tap vo 200 trang,Vo,Chiec,25/4/2021,Campus,100,25000.00,2500000.00
+9F2G6L,Ghim kep,Van phong,Hop,30/1/2024,Flexoffice,170,9000.00,1377000.00
+8H5J3M,But da,Van phong,Chiec,8/7/2023,Parker,40,65000.00,2600000.00

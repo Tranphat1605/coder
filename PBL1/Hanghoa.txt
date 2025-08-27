@@ -1,0 +1,6 @@
+Danh sach vat tu da xuat:
+Ma VT      Ten VT               Loai VT         DVT        Ngay Nhap    Nha SX          So Luong   Don Gia    Thanh Tien
+7T5U2E     Thuoc ke 20cm        Dung cu         Chiec      10/11/2022   Flexoffice      45         8000.00    360000.00 
+9F2G6L     Ghim kep             Van phong       Hop        30/01/2024   Flexoffice      55         9000.00    495000.00 
+Tong so luong hang hoa da xuat: 100
+Tong tien hang hoa da xuat: 855000.00

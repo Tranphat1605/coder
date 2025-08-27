@@ -1,0 +1,11 @@
+#include <stdio.h> 
+int main () {
+	int a,b;
+	int s = 0;
+	scanf ("%d %d", &a, &b);
+	for (int i = a; i <= b; i++) {
+		if (i%3==0) s+=1;
+	}
+	printf ("%d", s);
+	return 0;
+}

@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "Win64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:\\Users\\MSI GF66\\Downloads\\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1\\mingw64\\include"
+      ],
+      "defines": [],
+      "compilerPath": "C:\\Users\\MSI GF66\\Downloads\\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1\\mingw64\\bin\\g++.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}   
