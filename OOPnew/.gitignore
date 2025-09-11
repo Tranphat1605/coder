@@ -1,0 +1,10 @@
+.vscode/
+DayMonthYear.exe Hocsinh.exe Vector3D.exe fullsort.exe point.exe point_main.exe pointt.exe stack_main.exe topHex.exe
+*.obj
+*.o
+*.log
+*.pdb
+*.ilk
+build/
+out/
+dist/
