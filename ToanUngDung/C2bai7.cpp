@@ -195,3 +195,36 @@ for(int idx=0; idx<n; idx++){
     cout << "\nMa tran V ("<<n<<"x"<<n<<"):\n";
     for(int i=1;i<=n;i++){for(int j=1;j<=n;j++) cout<<clean(V[i][j])<<" "; cout<<"\n";}
 }
+
+
+// Thuật toán SVD(A, m, n):
+
+// Bước 1: Tính A^T * A
+//     - Tạo ma trận ATA (n×n).
+//     - ATA[i][j] = ∑ (A[k][i] * A[k][j]) với k = 1 → m.
+
+// Bước 2: Tìm trị riêng và vectơ riêng của ATA
+//     - Áp dụng phương pháp Danilevskii đưa ATA về dạng Frobenius.
+//     - Tính đa thức đặc trưng.
+//     - Giải đa thức để tìm các trị riêng λi.
+//     - Tính vectơ riêng tương ứng → ma trận V.
+
+// Bước 3: Tính các giá trị kỳ dị (singular values)
+//     - Với mỗi λi ≥ 0:
+//         σi = sqrt(λi).
+//     - Lưu σi vào ma trận Σ theo đường chéo chính.
+
+// Bước 4: Tính ma trận U
+//     - Với mỗi σi ≠ 0:
+//         ui = (1 / σi) * (A * vi).
+//     - Các cột ui tạo thành một phần ma trận U.
+
+// Bước 5: Bổ sung trực chuẩn cho U
+//     - Nếu số cột của U chưa đủ m:
+//         Thêm các vectơ trực chuẩn bằng phương pháp Gram–Schmidt.
+//     - Kết quả: U trực giao (U^T U = I).
+
+// Bước 6: Xuất kết quả
+//     - Ma trận U (m×m).
+//     - Ma trận Σ (m×n).
+//     - Ma trận V (n×n).
