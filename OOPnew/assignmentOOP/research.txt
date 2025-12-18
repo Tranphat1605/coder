@@ -1,0 +1,4 @@
+G|RG001|Du an Robot tu hanh|Le Van C|2023|500|12
+C|CP001|Mo hinh AI nhan dien|Tran Thi B|2022|Hoi nghi Quoc te AI|Ha
+J|JP002|Toi uu hoa mang 5G|Pham Van D|2020|Tap chi Vien thong|2.8
+J|JP001|Phan tich du lieu lon|Nguyen Van A|2021|Tap chi CNTT|3.2
