@@ -10,7 +10,9 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "-I",
+                "C:\\Users\\MSI GF66\\Downloads\\eigen-5.0.0\\eigen-5.0.0" // <--- THÊM 2 DÒNG NÀY
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
